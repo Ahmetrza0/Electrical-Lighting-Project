@@ -1,6 +1,6 @@
 # Residential Electrical Installation & Lighting Design
 
-**[Click here to view the Full AutoCAD Project & DIALux Report (PDF)](IcTesisat.pdf(https://github.com/user-attachments/files/29169372/IcTesisat.pdf)**
+**[Click here to view the Full AutoCAD Project & DIALux Report (PDF)][IcTesisat.pdf](https://github.com/user-attachments/files/29169382/IcTesisat.pdf)**
 
 ## Project Overview
 This repository contains the comprehensive strong current (kuvvetli akım) electrical installation design and photometric lighting simulation for a 1,160 m² residential building. 
